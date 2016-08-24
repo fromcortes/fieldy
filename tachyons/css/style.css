@@ -3,10 +3,12 @@
 }
 
 .selection {
-  min-height: 180px;
+  min-height: 175px;
   border-radius: 5px;
 }
 
 /*Additions*/
 
 .b--brown { border-top: 10px solid #a0824f; }
+
+.centered { text-align: center; margin-left: auto; margin-right: auto;}

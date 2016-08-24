@@ -1,8 +1,9 @@
 # Fieldy
 
-The Fieldy website, open sourced.
+Resources for lovers of Field Notes
 
-### Usage
+## Using
 
-`npm start`
-`browser-sync start --server --files "index.html, css/tachyons.css"`
+**Compiling:** `npm start` in tachyons
+
+**Browser Sync:** `browser-sync start --server --files "index.html, css/tachyons.css"`
