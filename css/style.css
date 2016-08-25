@@ -7,6 +7,21 @@
   border-radius: 5px;
 }
 
+
+/*Wallpapers*/
+
+.wallpaper-thumbnail {
+  width: 128px;
+  height: 128px;
+}
+
+@media only screen and (max-width: 40em) {
+  .wallpaper-thumbnail {
+    display: none;
+  }
+}
+
+
 /*Additions*/
 
 .b--brown { border-top: 10px solid #a0824f; }
