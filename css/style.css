@@ -1,3 +1,9 @@
+#logo {
+  height: 18px;
+  margin-top: 20px;
+  padding-left: 3px;
+}
+
 #selections {
   width: 100% !important;
 }
