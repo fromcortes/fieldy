@@ -1,8 +1,16 @@
+/*Global*/
+
+li { margin-bottom: 15px; }
+.brown { color: #B09F67; }
+
 #logo {
   height: 18px;
   margin-top: 15px;
   padding-left: 3px;
 }
+
+
+/*Home*/
 
 #selections {
   width: 100% !important;
