@@ -1,6 +1,7 @@
 /*Global*/
 
 li { margin-bottom: 15px; }
+a:hover { color: black; }
 .brown { color: #B09F67; }
 
 #logo {
