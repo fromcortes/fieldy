@@ -1,7 +1,9 @@
 /*Global*/
 
+hr { border: 1px solid #F2F2F2; }
+
 li { margin-bottom: 15px; }
-.black:hover { color: #B09F67; }
+li.dim:hover { opacity: .5; } 
 .brown { color: #B09F67; }
 
 #logo {
@@ -39,6 +41,8 @@ li { margin-bottom: 15px; }
     height: 80px;
   }
 }
+
+/*Reference*/
 
 
 /*Additions*/
