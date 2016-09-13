@@ -1,8 +1,19 @@
+/*Global*/
+
+hr { border: 1px solid #F2F2F2; }
+
+li { margin-bottom: 15px; }
+li.dim:hover { opacity: .5; } 
+.brown { color: #B09F67; }
+
 #logo {
   height: 18px;
   margin-top: 15px;
   padding-left: 3px;
 }
+
+
+/*Home*/
 
 #selections {
   width: 100% !important;
@@ -30,6 +41,8 @@
     height: 80px;
   }
 }
+
+/*Reference*/
 
 
 /*Additions*/
