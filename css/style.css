@@ -3,7 +3,7 @@
 hr { border: 1px solid #F2F2F2; }
 
 li { margin-bottom: 15px; }
-li.dim:hover { opacity: .5; } 
+li.dim:hover { opacity: .5; }
 .brown { color: #B09F67; }
 
 #logo {
@@ -48,3 +48,4 @@ li.dim:hover { opacity: .5; }
 /*Additions*/
 
 .b--brown { border-top: 10px solid #a0824f; }
+.bg-brown { background-color: #a0824f; }
