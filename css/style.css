@@ -2,10 +2,11 @@
 
 hr { border: 1px solid #F2F2F2; }
 
-li { margin-bottom: 15px; }
-li.dim:hover { opacity: .5; }
-.brown { color: #B09F67; }
-.fieldy-font { font-family: "futura-pt", helvetica neue, helvetica, sans-serif; }
+li                    { margin-bottom: 15px; }
+li.dim:hover          { opacity: .5; }
+.brown                { color: #B09F67; }
+.hover-brown:hover    { color: #B09F67; }
+.fieldy-font          { font-family: "futura-pt", helvetica neue, helvetica, sans-serif; }
 
 #logo {
   height: 18px;
